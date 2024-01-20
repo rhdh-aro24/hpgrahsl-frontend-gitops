@@ -3,8 +3,8 @@
 # Declare variables to be passed into your templates.
 
 app:
-  gatewayApiUrl: http://hpgrahsl-poi-gateway-app-hpgrahsl.apps.kovj5vhc.eastus.aroapp.io
-  websocketEndpoint: ws://hpgrahsl-poi-gateway-app-hpgrahsl.apps.kovj5vhc.eastus.aroapp.io/ws-server-endpoint
+  gatewayApiUrl: https://hpgrahsl-poi-gateway-app-hpgrahsl.apps.kovj5vhc.eastus.aroapp.io
+  websocketEndpoint: wss://hpgrahsl-poi-gateway-app-hpgrahsl.apps.kovj5vhc.eastus.aroapp.io/ws-server-endpoint
   componentId: hpgrahsl-poi-map-app
   namespace: hpgrahsl
 
